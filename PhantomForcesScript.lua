@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 local Player = Players.LocalPlayer  
 local TweenService = game:GetService("TweenService")
 
-local PIN = "88229"
+local PIN = "123"
 
 local ScreenGui = Instance.new("ScreenGui")  
 ScreenGui.Parent = Player.PlayerGui  
